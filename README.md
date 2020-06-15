@@ -12,3 +12,10 @@ Implementing Velodyne Lidar -16 and Monocular Camera sensor fusion using extrins
 • Implemented Obstacle detection on Point Cloud Data collected by the vehicle to detect obstacles in the path.This will include RANSAC segmentation of road,plane and obstacles and clustering algorithm in PCL.<br />
 • Developed Custom Object Detector using YOLO framework for detecting vehicles specific like Traffic Signs,Rickshaws,bikes and Tempos.<br />
 Tools Used- ROS,PCL,OpenCV,Numpy,C++<br />
+<br />
+
+Major Work - Index<br />
+• Working on Sensor Fusion using VLP -16 and Camera. Outcome - Detect a object and display its distance from SwayamGO.  Pg- 17 <br />
+• 3D obstacle detection in Lidar . RANSAC and Euclidean Cluster detecting in PCL. Pg - 25 <br />
+• Vechile , Pedistrian and Traffic Sign Detection using Yolo V3 using Darknet implementation. The data was captured from ARAI's Car SwayamGO of Pune roads . Detecting Vehicles , Pedistrians and Traffic Signs in Indian Scenario.  Pg-27
+
