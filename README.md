@@ -19,3 +19,5 @@ Major Work - Index<br />
 • 3D obstacle detection in Lidar . RANSAC and Euclidean Cluster detecting in PCL. Pg - 25 <br />
 • Vehicle , Pedistrian and Traffic Sign Detection using Yolo V3 using Darknet implementation. The data was captured from ARAI's Car SwayamGO of Pune roads . Detecting Vehicles , Pedistrians and Traffic Signs in Indian Scenario.  Pg-27
 
+
+Sensor Fusion Paper - https://arxiv.org/ftp/arxiv/papers/1710/1710.06230.pdf
