@@ -17,5 +17,5 @@ Tools Used- ROS,PCL,OpenCV,Numpy,C++<br />
 Major Work - Index<br />
 • Working on Sensor Fusion using VLP -16 and Camera. Outcome - Detect a object and display its distance from SwayamGO.  Pg- 17 <br />
 • 3D obstacle detection in Lidar . RANSAC and Euclidean Cluster detecting in PCL. Pg - 25 <br />
-• Vechile , Pedistrian and Traffic Sign Detection using Yolo V3 using Darknet implementation. The data was captured from ARAI's Car SwayamGO of Pune roads . Detecting Vehicles , Pedistrians and Traffic Signs in Indian Scenario.  Pg-27
+• Vehicle , Pedistrian and Traffic Sign Detection using Yolo V3 using Darknet implementation. The data was captured from ARAI's Car SwayamGO of Pune roads . Detecting Vehicles , Pedistrians and Traffic Signs in Indian Scenario.  Pg-27
 
